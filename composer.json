@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Httproot\\Netconf\\": "src/"
+            "Httproot\\NetConf\\": "src/"
         }
     },
     "authors": [
