@@ -1,10 +1,10 @@
-<?php namespace Lamoni\NetConf\NetConfAuth;
+<?php namespace Httproot\NetConf\NetConfAuth;
 
 use Net_SSH2;
 
 /**
  * Class NetConfAuthPassword
- * @package Lamoni\NetConf\NetConfAuth
+ * @package Httproot\NetConf\NetConfAuth
  */
 class NetConfAuthPassword extends NetConfAuthAbstract
 {

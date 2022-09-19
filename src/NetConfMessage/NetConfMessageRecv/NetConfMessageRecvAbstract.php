@@ -1,8 +1,8 @@
-<?php namespace Lamoni\NetConf\NetConfMessage\NetConfMessageRecv;
+<?php namespace Httproot\NetConf\NetConfMessage\NetConfMessageRecv;
 
 /**
  * Class NetConfMessageRecvAbstract
- * @package Lamoni\NetConf\NetConfMessage\NetConfMessageRecv
+ * @package Httproot\NetConf\NetConfMessage\NetConfMessageRecv
  */
 abstract class NetConfMessageRecvAbstract
 {

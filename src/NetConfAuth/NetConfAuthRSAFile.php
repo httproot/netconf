@@ -1,11 +1,11 @@
-<?php namespace Lamoni\NetConf\NetConfAuth;
+<?php namespace Httproot\NetConf\NetConfAuth;
 
 use Net_SSH2;
 use Crypt_RSA;
 
 /**
  * Class NetConfAuthRSAFile
- * @package Lamoni\NetConf\NetConfAuth
+ * @package Httproot\NetConf\NetConfAuth
  */
 class NetConfAuthRSAFile extends NetConfAuthAbstract
 {

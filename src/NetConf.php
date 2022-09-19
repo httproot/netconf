@@ -9,8 +9,8 @@ use SimpleXMLElement;
 
 /**
  * Class NetConf
- * @package Lamoni\NetConf
- * @author Lamoni Finlayson
+ * @package Httproot\NetConf
+ * @author Httproot Finlayson
  */
 class NetConf
 {
