@@ -14,7 +14,6 @@ use SimpleXMLElement;
  */
 class NetConf
 {
-
     /**
      * SSH2 interface
      *
@@ -54,7 +53,9 @@ class NetConf
      * @var array
      */
     protected $sendHistory;
-
+    public function Hesa(){
+        echo 111;
+    }
     /**
      * @param $hostname
      * @param NetConfAuthAbstract $netconfAuth
